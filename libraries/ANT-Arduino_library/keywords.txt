@@ -1,0 +1,9 @@
+Ant	KEYWORD1
+AntResponse	KEYWORD1
+readPacket	KEYWORD2
+readPacketUntilAvailable	KEYWORD2
+begin	KEYWORD2
+send	KEYWORD2
+getResponse	KEYWORD2
+setSerial	KEYWORD2
+
